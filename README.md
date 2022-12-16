@@ -1,2 +1,2 @@
-# leaning-Git
-this repo was used to lean git
+# Leaning-Git
+## This repo was used to lean git
